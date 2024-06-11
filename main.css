@@ -1,0 +1,40 @@
+/*This is the styling*/
+
+.left {
+	margin-left: 100;
+	text-align: left;
+	font-weight: bolder;
+}
+.modal-body{
+	background-color: #525456;
+}
+
+h4 {
+	color: white;
+}
+#logo{
+	max-width: 10%;
+}
+body{
+	margin-bottom: 100;
+}
+.form-check{
+	color: white;
+	text-align: center;
+}
+
+.center {
+	text-align: center;
+}
+.modal-content{
+	align-items: center;
+}
+.form-control{
+	text-align: center;
+}
+.center{
+	color: white;
+}
+.epicLogo2{
+	max-width: 100%;
+}
